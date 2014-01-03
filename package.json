@@ -1,0 +1,18 @@
+{
+  "name": "hardware",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "xbox-controller": "~0.4.0",
+    "express": "~3.4.7",
+    "socket.io": "~0.9.16",
+    "johnny-five": "~0.7.10",
+    "leapjs": "~0.3.0-beta1"
+  }
+}
